@@ -9,7 +9,6 @@ new_cases_smoothed,COVID-19 Data Repository by the Center for Systems Science an
 total_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total deaths attributed to COVID-19
 new_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New deaths attributed to COVID-19
 new_deaths_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New deaths attributed to COVID-19 (7-day smoothed)
-reproduction_rate,Arroyo Marioli et al. (2020). https://doi.org/10.2139/ssrn.3581633,Real-time estimate of the effective reproduction rate (R) of COVID-19. See http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com/FAQ
 icu_patients,European Centre for Disease Prevention and Control for European countries / COVID Tracking Project for the United States,Number of COVID-19 patients in intensive care units (ICUs) on a given day
 hosp_patients,European Centre for Disease Prevention and Control for European countries / COVID Tracking Project for the United States,Number of COVID-19 patients in hospital on a given day
 weekly_icu_admissions,European Centre for Disease Prevention and Control for European countries / COVID Tracking Project for the United States,Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week
